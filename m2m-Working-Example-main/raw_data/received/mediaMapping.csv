@@ -1,0 +1,31 @@
+Spend,Variable,Grouped_Var,Brand,Product,Channel,Sub.Channel,Message,Campaign,MOT_Channel
+m_radaud_ret_sp,m_radaud_ret_sp,m_tot_ret_sp,Costa,Retail,Radio & Audio,Radio & Audio,Retail,Retail,Radio & Audio
+m_dis_ret_sp,m_dis_ret_sp,m_tot_ret_sp,Costa,Retail,Display,Display,Retail,Retail,Display
+m_ooh_ret_sp,m_ooh_ret_sp,m_tot_ret_sp,Costa,Retail,OOH,OOH,Retail,Retail,OOH
+m_prs_ret_sp,m_prs_ret_sp,m_tot_ret_sp,Costa,Retail,Press,Press,Retail,Retail,Press
+m_soc_ret_sp,m_soc_ret_sp,m_tot_ret_sp,Costa,Retail,Social,Social,Retail,Retail,Social
+m_vod_ret_sp,m_vod_ret_sp,m_tot_ret_sp,Costa,Retail,VOD,VOD,Retail,Retail,VOD
+m_tvvspons_ret_sp,m_tvvspons_ret_sec,m_tot_ret_sp,Costa,Retail,TV Sponsorship,TV Sponsorship,Retail,Retail,TV Sponsorship
+m_radaud_exp_sp,m_radaud_exp_sp,m_tot_exp_sp,Costa,Express,Radio & Audio,Radio & Audio,Express,Express,Radio & Audio
+m_dis_exp_sp,m_dis_exp_sp,m_tot_exp_sp,Costa,Express,Display,Display,Express,Express,Display
+m_soc_exp_sp,m_soc_exp_sp,m_tot_exp_sp,Costa,Express,Social,Social,Express,Express,Social
+m_ooh_exp_sp,m_ooh_exp_sp,m_tot_exp_sp,Costa,Express,OOH,OOH,Express,Express,OOH
+m_prs_exp_sp,m_prs_exp_sp,m_tot_exp_sp,Costa,Express,Press,Press,Express,Express,Press
+m_tot_rtd_sp,m_tot_rtd_sp,m_tot_rtd_sp,Costa,RTD,OOH,OOH,RTD,RTD,OOH
+m_tot_home_sp,m_tot_home_sp,m_tot_home_sp,Costa,At Home,Total,Total,At Home,At Home,Total
+m_tot_app_sp,m_tot_app_sp,m_tot_app_sp,Costa,FOOU,Total,Total,FOOU,FOOU,Total
+m_tvvspons_ret_sp,m_tvvspons_ret_ppval,m_tot_ret_sp,Costa,Retail,TV Sponsorship,TV Sponsorship,Retail,Retail,TV Sponsorship
+Remove,m_eml_foou_vol,Remove,Remove,Remove,Remove,Remove,Remove,Remove,Remove
+m_tot_ret_sp,m_tot_ret_sp,m_tot_ret_sp,Costa,Retail,Total,Total,Retail,Retail,Total
+Remove,m_eml_delroll_vol,Remove,Remove,Remove,Remove,Remove,Remove,Remove,Remove
+Remove,m_eml_deliv_vol,Remove,Remove,Remove,Remove,Remove,Remove,Remove,Remove
+m_aud_exp_sp,m_aud_exp_sp,m_tot_exp20_sp,Costa,Express,Radio & Audio,Radio & Audio,Express,Express,Radio & Audio
+m_dis_exp_sp,m_dis_exp_sp,m_tot_exp20_sp,Costa,Express,Display,Display,Express,Express,Display
+m_soc_exp_sp,m_soc_exp_sp,m_tot_exp20_sp,Costa,Express,Social,Social,Express,Express,Social
+m_ooh_exp19_sp,m_ooh_exp19_sp,m_tot_exp19_sp,Costa,Express,OOH,OOH,Express,Express,OOH
+m_dig_exp19_sp,m_dig_exp19_sp,m_tot_exp19_sp,Costa,Express,Display,Display,Express,Express,Display
+m_prs_exp19_sp,m_prs_exp19_sp,m_tot_exp19_sp,Costa,Express,Press,Press,Express,Express,Press
+m_dig_ret_sp,m_dig_ret_sp,m_digall_ret_sp,Costa,Retail,Exclude,Exclude,Retail,Retail,Exclude
+m_soc_ret_sp,m_soc_ret_sp,m_digall_ret_sp,Costa,Retail,Social,Social,Retail,Retail,Social
+m_disvd_ret_sp,m_disvd_ret_sp,m_digall_ret_sp,Costa,Retail,Display,Display,Retail,Retail,Display
+m_disst_ret_sp ,m_disst_ret_sp ,m_digall_ret_sp,Costa,Retail,Display,Display,Retail,Retail,Display

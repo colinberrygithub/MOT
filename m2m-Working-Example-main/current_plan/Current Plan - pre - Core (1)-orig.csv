@@ -1,0 +1,845 @@
+Spend,,,,,
+Campaign,Media channel,2022,,,
+At Home Media,At Home  total,147505,,,
+Express,Display,46761,,,
+Express,OOH,660090,,,
+Express,Press,112488,,,
+Express,Radio and Audio,34707,,,
+Express,Social,108286,,,
+FOOU,FOOU  total,1031790,,,
+Retail,Display,687247,,,
+Retail,OOH,1743235,,,
+Retail,Press,407254,,,
+Retail,Radio and Audio,1827125,,,
+Retail,Social,659588,,,
+Retail,TV Sponsorship,876000,,,
+Retail,VOD,136536,,,
+RTD Media,OOH,604441,,,
+,,,,,
+All Revenue,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,At Home  product,At Home  sub product,173588
+At Home Media,At Home  total,Long term,Express Sales,Total Express  sub product,121643
+At Home Media,At Home  total,Long term,Retail Sales,Drinks,102079
+At Home Media,At Home  total,Long term,Retail Sales,Food,49863
+At Home Media,At Home  total,Long term,Retail Sales,Other,11655
+At Home Media,At Home  total,Long term,RTD,Total RTD  sub product,5893
+At Home Media,At Home  total,Short term,At Home  product,At Home  sub product,1061581
+At Home Media,At Home  total,Short term,Express Sales,Total Express  sub product,0
+At Home Media,At Home  total,Short term,Retail Sales,Drinks,0
+At Home Media,At Home  total,Short term,Retail Sales,Food,0
+At Home Media,At Home  total,Short term,Retail Sales,Other,0
+At Home Media,At Home  total,Short term,RTD,Total RTD  sub product,0
+Express,Display,Long term,At Home  product,At Home  sub product,30274
+Express,Display,Long term,Express Sales,Total Express  sub product,22014
+Express,Display,Long term,Retail Sales,Drinks,17072
+Express,Display,Long term,Retail Sales,Food,8523
+Express,Display,Long term,Retail Sales,Other,1928
+Express,Display,Long term,RTD,Total RTD  sub product,973
+Express,Display,Short term,At Home  product,At Home  sub product,0
+Express,Display,Short term,Express Sales,Total Express  sub product,201606
+Express,Display,Short term,Retail Sales,Drinks,0
+Express,Display,Short term,Retail Sales,Food,0
+Express,Display,Short term,Retail Sales,Other,0
+Express,Display,Short term,RTD,Total RTD  sub product,5574
+Express,OOH,Long term,At Home  product,At Home  sub product,637381
+Express,OOH,Long term,Express Sales,Total Express  sub product,470529
+Express,OOH,Long term,Retail Sales,Drinks,362545
+Express,OOH,Long term,Retail Sales,Food,179642
+Express,OOH,Long term,Retail Sales,Other,41559
+Express,OOH,Long term,RTD,Total RTD  sub product,23018
+Express,OOH,Short term,At Home  product,At Home  sub product,0
+Express,OOH,Short term,Express Sales,Total Express  sub product,1998083
+Express,OOH,Short term,Retail Sales,Drinks,0
+Express,OOH,Short term,Retail Sales,Food,0
+Express,OOH,Short term,Retail Sales,Other,0
+Express,OOH,Short term,RTD,Total RTD  sub product,91330
+Express,Press,Long term,At Home  product,At Home  sub product,70412
+Express,Press,Long term,Express Sales,Total Express  sub product,51951
+Express,Press,Long term,Retail Sales,Drinks,40230
+Express,Press,Long term,Retail Sales,Food,19944
+Express,Press,Long term,Retail Sales,Other,4578
+Express,Press,Long term,RTD,Total RTD  sub product,2548
+Express,Press,Short term,At Home  product,At Home  sub product,0
+Express,Press,Short term,Express Sales,Total Express  sub product,373690
+Express,Press,Short term,Retail Sales,Drinks,0
+Express,Press,Short term,Retail Sales,Food,0
+Express,Press,Short term,Retail Sales,Other,0
+Express,Press,Short term,RTD,Total RTD  sub product,13824
+Express,Radio and Audio,Long term,At Home  product,At Home  sub product,65400
+Express,Radio and Audio,Long term,Express Sales,Total Express  sub product,45161
+Express,Radio and Audio,Long term,Retail Sales,Drinks,36818
+Express,Radio and Audio,Long term,Retail Sales,Food,18409
+Express,Radio and Audio,Long term,Retail Sales,Other,4143
+Express,Radio and Audio,Long term,RTD,Total RTD  sub product,1996
+Express,Radio and Audio,Short term,At Home  product,At Home  sub product,0
+Express,Radio and Audio,Short term,Express Sales,Total Express  sub product,328171
+Express,Radio and Audio,Short term,Retail Sales,Drinks,0
+Express,Radio and Audio,Short term,Retail Sales,Food,0
+Express,Radio and Audio,Short term,Retail Sales,Other,0
+Express,Radio and Audio,Short term,RTD,Total RTD  sub product,4196
+Express,Social,Long term,At Home  product,At Home  sub product,149256
+Express,Social,Long term,Express Sales,Total Express  sub product,110710
+Express,Social,Long term,Retail Sales,Drinks,85533
+Express,Social,Long term,Retail Sales,Food,42678
+Express,Social,Long term,Retail Sales,Other,9992
+Express,Social,Long term,RTD,Total RTD  sub product,5140
+Express,Social,Short term,At Home  product,At Home  sub product,0
+Express,Social,Short term,Express Sales,Total Express  sub product,956268
+Express,Social,Short term,Retail Sales,Drinks,0
+Express,Social,Short term,Retail Sales,Food,0
+Express,Social,Short term,Retail Sales,Other,0
+Express,Social,Short term,RTD,Total RTD  sub product,12958
+FOOU,FOOU  total,Long term,At Home  product,At Home  sub product,923390
+FOOU,FOOU  total,Long term,Express Sales,Total Express  sub product,678553
+FOOU,FOOU  total,Long term,Retail Sales,Drinks,546645
+FOOU,FOOU  total,Long term,Retail Sales,Food,254948
+FOOU,FOOU  total,Long term,Retail Sales,Other,48548
+FOOU,FOOU  total,Long term,RTD,Total RTD  sub product,25453
+FOOU,FOOU  total,Short term,At Home  product,At Home  sub product,1368067
+FOOU,FOOU  total,Short term,Express Sales,Total Express  sub product,768944
+FOOU,FOOU  total,Short term,Retail Sales,Drinks,1740569
+FOOU,FOOU  total,Short term,Retail Sales,Food,2066729
+FOOU,FOOU  total,Short term,Retail Sales,Other,417648
+FOOU,FOOU  total,Short term,RTD,Total RTD  sub product,223381
+Retail,Display,Long term,At Home  product,At Home  sub product,603835
+Retail,Display,Long term,Express Sales,Total Express  sub product,500867
+Retail,Display,Long term,Retail Sales,Drinks,400772
+Retail,Display,Long term,Retail Sales,Food,206690
+Retail,Display,Long term,Retail Sales,Other,47992
+Retail,Display,Long term,RTD,Total RTD  sub product,23905
+Retail,Display,Short term,At Home  product,At Home  sub product,111783
+Retail,Display,Short term,Express Sales,Total Express  sub product,234940
+Retail,Display,Short term,Retail Sales,Drinks,1245004
+Retail,Display,Short term,Retail Sales,Food,696625
+Retail,Display,Short term,Retail Sales,Other,43687
+Retail,Display,Short term,RTD,Total RTD  sub product,13518
+Retail,OOH,Long term,At Home  product,At Home  sub product,4474084
+Retail,OOH,Long term,Express Sales,Total Express  sub product,2484882
+Retail,OOH,Long term,Retail Sales,Drinks,2633168
+Retail,OOH,Long term,Retail Sales,Food,1266664
+Retail,OOH,Long term,Retail Sales,Other,302274
+Retail,OOH,Long term,RTD,Total RTD  sub product,107345
+Retail,OOH,Short term,At Home  product,At Home  sub product,305177
+Retail,OOH,Short term,Express Sales,Total Express  sub product,577011
+Retail,OOH,Short term,Retail Sales,Drinks,8524563
+Retail,OOH,Short term,Retail Sales,Food,625045
+Retail,OOH,Short term,Retail Sales,Other,220291
+Retail,OOH,Short term,RTD,Total RTD  sub product,31599
+Retail,Press,Long term,At Home  product,At Home  sub product,706364
+Retail,Press,Long term,Express Sales,Total Express  sub product,427528
+Retail,Press,Long term,Retail Sales,Drinks,458971
+Retail,Press,Long term,Retail Sales,Food,310332
+Retail,Press,Long term,Retail Sales,Other,50993
+Retail,Press,Long term,RTD,Total RTD  sub product,17192
+Retail,Press,Short term,At Home  product,At Home  sub product,49270
+Retail,Press,Short term,Express Sales,Total Express  sub product,162376
+Retail,Press,Short term,Retail Sales,Drinks,941437
+Retail,Press,Short term,Retail Sales,Food,506727
+Retail,Press,Short term,Retail Sales,Other,154694
+Retail,Press,Short term,RTD,Total RTD  sub product,7126
+Retail,Radio and Audio,Long term,At Home  product,At Home  sub product,4368998
+Retail,Radio and Audio,Long term,Express Sales,Total Express  sub product,3593498
+Retail,Radio and Audio,Long term,Retail Sales,Drinks,2785737
+Retail,Radio and Audio,Long term,Retail Sales,Food,1372269
+Retail,Radio and Audio,Long term,Retail Sales,Other,330790
+Retail,Radio and Audio,Long term,RTD,Total RTD  sub product,170948
+Retail,Radio and Audio,Short term,At Home  product,At Home  sub product,313784
+Retail,Radio and Audio,Short term,Express Sales,Total Express  sub product,588280
+Retail,Radio and Audio,Short term,Retail Sales,Drinks,3828495
+Retail,Radio and Audio,Short term,Retail Sales,Food,1677312
+Retail,Radio and Audio,Short term,Retail Sales,Other,109400
+Retail,Radio and Audio,Short term,RTD,Total RTD  sub product,35081
+Retail,Social,Long term,At Home  product,At Home  sub product,1327005
+Retail,Social,Long term,Express Sales,Total Express  sub product,1069762
+Retail,Social,Long term,Retail Sales,Drinks,868147
+Retail,Social,Long term,Retail Sales,Food,429622
+Retail,Social,Long term,Retail Sales,Other,95888
+Retail,Social,Long term,RTD,Total RTD  sub product,48061
+Retail,Social,Short term,At Home  product,At Home  sub product,101021
+Retail,Social,Short term,Express Sales,Total Express  sub product,235365
+Retail,Social,Short term,Retail Sales,Drinks,1128035
+Retail,Social,Short term,Retail Sales,Food,665613
+Retail,Social,Short term,Retail Sales,Other,42487
+Retail,Social,Short term,RTD,Total RTD  sub product,13417
+Retail,TV Sponsorship,Long term,At Home  product,At Home  sub product,17806975
+Retail,TV Sponsorship,Long term,Express Sales,Total Express  sub product,14933029
+Retail,TV Sponsorship,Long term,Retail Sales,Drinks,12211787
+Retail,TV Sponsorship,Long term,Retail Sales,Food,6026484
+Retail,TV Sponsorship,Long term,Retail Sales,Other,1455486
+Retail,TV Sponsorship,Long term,RTD,Total RTD  sub product,757058
+Retail,TV Sponsorship,Short term,At Home  product,At Home  sub product,219890
+Retail,TV Sponsorship,Short term,Express Sales,Total Express  sub product,300367
+Retail,TV Sponsorship,Short term,Retail Sales,Drinks,2268358
+Retail,TV Sponsorship,Short term,Retail Sales,Food,1652683
+Retail,TV Sponsorship,Short term,Retail Sales,Other,0
+Retail,TV Sponsorship,Short term,RTD,Total RTD  sub product,16263
+Retail,VOD,Long term,At Home  product,At Home  sub product,153260
+Retail,VOD,Long term,Express Sales,Total Express  sub product,109826
+Retail,VOD,Long term,Retail Sales,Drinks,91669
+Retail,VOD,Long term,Retail Sales,Food,46419
+Retail,VOD,Long term,Retail Sales,Other,10988
+Retail,VOD,Long term,RTD,Total RTD  sub product,4840
+Retail,VOD,Short term,At Home  product,At Home  sub product,9639
+Retail,VOD,Short term,Express Sales,Total Express  sub product,45751
+Retail,VOD,Short term,Retail Sales,Drinks,350083
+Retail,VOD,Short term,Retail Sales,Food,289841
+Retail,VOD,Short term,Retail Sales,Other,66637
+Retail,VOD,Short term,RTD,Total RTD  sub product,2887
+RTD Media,OOH,Long term,At Home  product,At Home  sub product,468726
+RTD Media,OOH,Long term,Express Sales,Total Express  sub product,384023
+RTD Media,OOH,Long term,Retail Sales,Drinks,275253
+RTD Media,OOH,Long term,Retail Sales,Food,154227
+RTD Media,OOH,Long term,Retail Sales,Other,39737
+RTD Media,OOH,Long term,RTD,Total RTD  sub product,19336
+RTD Media,OOH,Short term,At Home  product,At Home  sub product,0
+RTD Media,OOH,Short term,Express Sales,Total Express  sub product,0
+RTD Media,OOH,Short term,Retail Sales,Drinks,1280120
+RTD Media,OOH,Short term,Retail Sales,Food,0
+RTD Media,OOH,Short term,Retail Sales,Other,100179
+RTD Media,OOH,Short term,RTD,Total RTD  sub product,814689
+,,,,,
+App Downloads,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,Total App  product,Total App  sub product,60
+At Home Media,At Home  total,Short term,Total App  product,Total App  sub product,0
+Express,Display,Long term,Total App  product,Total App  sub product,97
+Express,Display,Short term,Total App  product,Total App  sub product,0
+Express,OOH,Long term,Total App  product,Total App  sub product,2029
+Express,OOH,Short term,Total App  product,Total App  sub product,0
+Express,Press,Long term,Total App  product,Total App  sub product,219
+Express,Press,Short term,Total App  product,Total App  sub product,0
+Express,Radio and Audio,Long term,Total App  product,Total App  sub product,130
+Express,Radio and Audio,Short term,Total App  product,Total App  sub product,0
+Express,Social,Long term,Total App  product,Total App  sub product,471
+Express,Social,Short term,Total App  product,Total App  sub product,0
+FOOU,FOOU  total,Long term,Total App  product,Total App  sub product,577
+FOOU,FOOU  total,Short term,Total App  product,Total App  sub product,390754
+Retail,Display,Long term,Total App  product,Total App  sub product,505
+Retail,Display,Short term,Total App  product,Total App  sub product,5954
+Retail,OOH,Long term,Total App  product,Total App  sub product,1629
+Retail,OOH,Short term,Total App  product,Total App  sub product,12018
+Retail,Press,Long term,Total App  product,Total App  sub product,194
+Retail,Press,Short term,Total App  product,Total App  sub product,2932
+Retail,Radio and Audio,Long term,Total App  product,Total App  sub product,3314
+Retail,Radio and Audio,Short term,Total App  product,Total App  sub product,15335
+Retail,Social,Long term,Total App  product,Total App  sub product,1059
+Retail,Social,Short term,Total App  product,Total App  sub product,6116
+Retail,TV Sponsorship,Long term,Total App  product,Total App  sub product,11632
+Retail,TV Sponsorship,Short term,Total App  product,Total App  sub product,5973
+Retail,VOD,Long term,Total App  product,Total App  sub product,75
+Retail,VOD,Short term,Total App  product,Total App  sub product,1295
+RTD Media,OOH,Long term,Total App  product,Total App  sub product,328
+RTD Media,OOH,Short term,Total App  product,Total App  sub product,0
+,,,,,
+At Home Volume,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,At Home  product,At Home  sub product,45474
+At Home Media,At Home  total,Short term,At Home  product,At Home  sub product,285942
+Express,Display,Long term,At Home  product,At Home  sub product,8128
+Express,Display,Short term,At Home  product,At Home  sub product,0
+Express,OOH,Long term,At Home  product,At Home  sub product,170248
+Express,OOH,Short term,At Home  product,At Home  sub product,0
+Express,Press,Long term,At Home  product,At Home  sub product,18768
+Express,Press,Short term,At Home  product,At Home  sub product,0
+Express,Radio and Audio,Long term,At Home  product,At Home  sub product,17581
+Express,Radio and Audio,Short term,At Home  product,At Home  sub product,0
+Express,Social,Long term,At Home  product,At Home  sub product,39857
+Express,Social,Short term,At Home  product,At Home  sub product,0
+FOOU,FOOU  total,Long term,At Home  product,At Home  sub product,244614
+FOOU,FOOU  total,Short term,At Home  product,At Home  sub product,354338
+Retail,Display,Long term,At Home  product,At Home  sub product,158964
+Retail,Display,Short term,At Home  product,At Home  sub product,29801
+Retail,OOH,Long term,At Home  product,At Home  sub product,1177003
+Retail,OOH,Short term,At Home  product,At Home  sub product,80962
+Retail,Press,Long term,At Home  product,At Home  sub product,185737
+Retail,Press,Short term,At Home  product,At Home  sub product,12981
+Retail,Radio and Audio,Long term,At Home  product,At Home  sub product,1151014
+Retail,Radio and Audio,Short term,At Home  product,At Home  sub product,83829
+Retail,Social,Long term,At Home  product,At Home  sub product,349658
+Retail,Social,Short term,At Home  product,At Home  sub product,27027
+Retail,TV Sponsorship,Long term,At Home  product,At Home  sub product,4684278
+Retail,TV Sponsorship,Short term,At Home  product,At Home  sub product,57841
+Retail,VOD,Long term,At Home  product,At Home  sub product,40214
+Retail,VOD,Short term,At Home  product,At Home  sub product,2576
+RTD Media,OOH,Long term,At Home  product,At Home  sub product,123517
+RTD Media,OOH,Short term,At Home  product,At Home  sub product,0
+,,,,,
+Express Sales Volume,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,Express Sales,Total Express  sub product,58301
+At Home Media,At Home  total,Short term,Express Sales,Total Express  sub product,0
+Express,Display,Long term,Express Sales,Total Express  sub product,10538
+Express,Display,Short term,Express Sales,Total Express  sub product,96202
+Express,OOH,Long term,Express Sales,Total Express  sub product,225234
+Express,OOH,Short term,Express Sales,Total Express  sub product,953500
+Express,Press,Long term,Express Sales,Total Express  sub product,24874
+Express,Press,Short term,Express Sales,Total Express  sub product,178319
+Express,Radio and Audio,Long term,Express Sales,Total Express  sub product,21616
+Express,Radio and Audio,Short term,Express Sales,Total Express  sub product,156600
+Express,Social,Long term,Express Sales,Total Express  sub product,52966
+Express,Social,Short term,Express Sales,Total Express  sub product,456257
+FOOU,FOOU  total,Long term,Express Sales,Total Express  sub product,324277
+FOOU,FOOU  total,Short term,Express Sales,Total Express  sub product,366297
+Retail,Display,Long term,Express Sales,Total Express  sub product,239921
+Retail,Display,Short term,Express Sales,Total Express  sub product,112384
+Retail,OOH,Long term,Express Sales,Total Express  sub product,1189295
+Retail,OOH,Short term,Express Sales,Total Express  sub product,276455
+Retail,Press,Long term,Express Sales,Total Express  sub product,204670
+Retail,Press,Short term,Express Sales,Total Express  sub product,77934
+Retail,Radio and Audio,Long term,Express Sales,Total Express  sub product,1721132
+Retail,Radio and Audio,Short term,Express Sales,Total Express  sub product,281414
+Retail,Social,Long term,Express Sales,Total Express  sub product,512495
+Retail,Social,Short term,Express Sales,Total Express  sub product,112502
+Retail,TV Sponsorship,Long term,Express Sales,Total Express  sub product,7143146
+Retail,TV Sponsorship,Short term,Express Sales,Total Express  sub product,143686
+Retail,VOD,Long term,Express Sales,Total Express  sub product,52696
+Retail,VOD,Short term,Express Sales,Total Express  sub product,21898
+RTD Media,OOH,Long term,Express Sales,Total Express  sub product,183753
+RTD Media,OOH,Short term,Express Sales,Total Express  sub product,0
+,,,,,
+Retail Drinks Volume,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,Retail Sales,Drinks,45515
+At Home Media,At Home  total,Short term,Retail Sales,Drinks,0
+Express,Display,Long term,Retail Sales,Drinks,7583
+Express,Display,Short term,Retail Sales,Drinks,0
+Express,OOH,Long term,Retail Sales,Drinks,161569
+Express,OOH,Short term,Retail Sales,Drinks,0
+Express,Press,Long term,Retail Sales,Drinks,17917
+Express,Press,Short term,Retail Sales,Drinks,0
+Express,Radio and Audio,Long term,Retail Sales,Drinks,16354
+Express,Radio and Audio,Short term,Retail Sales,Drinks,0
+Express,Social,Long term,Retail Sales,Drinks,38024
+Express,Social,Short term,Retail Sales,Drinks,0
+FOOU,FOOU  total,Long term,Retail Sales,Drinks,243594
+FOOU,FOOU  total,Short term,Retail Sales,Drinks,772371
+Retail,Display,Long term,Retail Sales,Drinks,178606
+Retail,Display,Short term,Retail Sales,Drinks,551927
+Retail,OOH,Long term,Retail Sales,Drinks,1174429
+Retail,OOH,Short term,Retail Sales,Drinks,3804286
+Retail,Press,Long term,Retail Sales,Drinks,204707
+Retail,Press,Short term,Retail Sales,Drinks,421242
+Retail,Radio and Audio,Long term,Retail Sales,Drinks,1241921
+Retail,Radio and Audio,Short term,Retail Sales,Drinks,1703638
+Retail,Social,Long term,Retail Sales,Drinks,386895
+Retail,Social,Short term,Retail Sales,Drinks,499534
+Retail,TV Sponsorship,Long term,Retail Sales,Drinks,5446107
+Retail,TV Sponsorship,Short term,Retail Sales,Drinks,1011660
+Retail,VOD,Long term,Retail Sales,Drinks,40877
+Retail,VOD,Short term,Retail Sales,Drinks,153001
+RTD Media,OOH,Long term,Retail Sales,Drinks,122738
+RTD Media,OOH,Short term,Retail Sales,Drinks,566882
+,,,,,
+Retail Food Volume,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,Retail Sales,Food,26545
+At Home Media,At Home  total,Short term,Retail Sales,Food,0
+Express,Display,Long term,Retail Sales,Food,4517
+Express,Display,Short term,Retail Sales,Food,0
+Express,OOH,Long term,Retail Sales,Food,95487
+Express,OOH,Short term,Retail Sales,Food,0
+Express,Press,Long term,Retail Sales,Food,10598
+Express,Press,Short term,Retail Sales,Food,0
+Express,Radio and Audio,Long term,Retail Sales,Food,9756
+Express,Radio and Audio,Short term,Retail Sales,Food,0
+Express,Social,Long term,Retail Sales,Food,22656
+Express,Social,Short term,Retail Sales,Food,0
+FOOU,FOOU  total,Long term,Retail Sales,Food,135761
+FOOU,FOOU  total,Short term,Retail Sales,Food,1105229
+Retail,Display,Long term,Retail Sales,Food,109902
+Retail,Display,Short term,Retail Sales,Food,368791
+Retail,OOH,Long term,Retail Sales,Food,675287
+Retail,OOH,Short term,Retail Sales,Food,332387
+Retail,Press,Long term,Retail Sales,Food,165452
+Retail,Press,Short term,Retail Sales,Food,270025
+Retail,Radio and Audio,Long term,Retail Sales,Food,730747
+Retail,Radio and Audio,Short term,Retail Sales,Food,890111
+Retail,Social,Long term,Retail Sales,Food,228188
+Retail,Social,Short term,Retail Sales,Food,352259
+Retail,TV Sponsorship,Long term,Retail Sales,Food,3212912
+Retail,TV Sponsorship,Short term,Retail Sales,Food,881090
+Retail,VOD,Long term,Retail Sales,Food,24689
+Retail,VOD,Short term,Retail Sales,Food,151506
+RTD Media,OOH,Long term,Retail Sales,Food,82108
+RTD Media,OOH,Short term,Retail Sales,Food,0
+,,,,,
+Retail Other Volume,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,Retail Sales,Other,7360
+At Home Media,At Home  total,Short term,Retail Sales,Other,0
+Express,Display,Long term,Retail Sales,Other,1174
+Express,Display,Short term,Retail Sales,Other,0
+Express,OOH,Long term,Retail Sales,Other,25499
+Express,OOH,Short term,Retail Sales,Other,0
+Express,Press,Long term,Retail Sales,Other,2818
+Express,Press,Short term,Retail Sales,Other,0
+Express,Radio and Audio,Long term,Retail Sales,Other,2517
+Express,Radio and Audio,Short term,Retail Sales,Other,0
+Express,Social,Long term,Retail Sales,Other,6123
+Express,Social,Short term,Retail Sales,Other,0
+FOOU,FOOU  total,Long term,Retail Sales,Other,30301
+FOOU,FOOU  total,Short term,Retail Sales,Other,264684
+Retail,Display,Long term,Retail Sales,Other,29913
+Retail,Display,Short term,Retail Sales,Other,25721
+Retail,OOH,Long term,Retail Sales,Other,188862
+Retail,OOH,Short term,Retail Sales,Other,136255
+Retail,Press,Long term,Retail Sales,Other,31952
+Retail,Press,Short term,Retail Sales,Other,96700
+Retail,Radio and Audio,Long term,Retail Sales,Other,205978
+Retail,Radio and Audio,Short term,Retail Sales,Other,65517
+Retail,Social,Long term,Retail Sales,Other,59306
+Retail,Social,Short term,Retail Sales,Other,24937
+Retail,TV Sponsorship,Long term,Retail Sales,Other,908867
+Retail,TV Sponsorship,Short term,Retail Sales,Other,0
+Retail,VOD,Long term,Retail Sales,Other,6921
+Retail,VOD,Short term,Retail Sales,Other,39033
+RTD Media,OOH,Long term,Retail Sales,Other,24523
+RTD Media,OOH,Short term,Retail Sales,Other,60693
+,,,,,
+RTD Cases,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,RTD,Total RTD  sub product,185
+At Home Media,At Home  total,Short term,RTD,Total RTD  sub product,0
+Express,Display,Long term,RTD,Total RTD  sub product,30
+Express,Display,Short term,RTD,Total RTD  sub product,170
+Express,OOH,Long term,RTD,Total RTD  sub product,725
+Express,OOH,Short term,RTD,Total RTD  sub product,3004
+Express,Press,Long term,RTD,Total RTD  sub product,80
+Express,Press,Short term,RTD,Total RTD  sub product,435
+Express,Radio and Audio,Long term,RTD,Total RTD  sub product,62
+Express,Radio and Audio,Short term,RTD,Total RTD  sub product,128
+Express,Social,Long term,RTD,Total RTD  sub product,161
+Express,Social,Short term,RTD,Total RTD  sub product,387
+FOOU,FOOU  total,Long term,RTD,Total RTD  sub product,804
+FOOU,FOOU  total,Short term,RTD,Total RTD  sub product,7279
+Retail,Display,Long term,RTD,Total RTD  sub product,750
+Retail,Display,Short term,RTD,Total RTD  sub product,431
+Retail,OOH,Long term,RTD,Total RTD  sub product,3371
+Retail,OOH,Short term,RTD,Total RTD  sub product,1025
+Retail,Press,Long term,RTD,Total RTD  sub product,540
+Retail,Press,Short term,RTD,Total RTD  sub product,227
+Retail,Radio and Audio,Long term,RTD,Total RTD  sub product,5363
+Retail,Radio and Audio,Short term,RTD,Total RTD  sub product,1123
+Retail,Social,Long term,RTD,Total RTD  sub product,1511
+Retail,Social,Short term,RTD,Total RTD  sub product,430
+Retail,TV Sponsorship,Long term,RTD,Total RTD  sub product,23882
+Retail,TV Sponsorship,Short term,RTD,Total RTD  sub product,513
+Retail,VOD,Long term,RTD,Total RTD  sub product,152
+Retail,VOD,Short term,RTD,Total RTD  sub product,92
+RTD Media,OOH,Long term,RTD,Total RTD  sub product,615
+RTD Media,OOH,Short term,RTD,Total RTD  sub product,26306
+,,,,,
+All Revenue - ROI,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,At Home  product,At Home  sub product,1.13
+At Home Media,At Home  total,Long term,Express Sales,Total Express  sub product,0.79
+At Home Media,At Home  total,Long term,Retail Sales,Drinks,0.66
+At Home Media,At Home  total,Long term,Retail Sales,Food,0.32
+At Home Media,At Home  total,Long term,Retail Sales,Other,0.08
+At Home Media,At Home  total,Long term,RTD,Total RTD  sub product,0.04
+At Home Media,At Home  total,Short term,At Home  product,At Home  sub product,7.2
+At Home Media,At Home  total,Short term,Express Sales,Total Express  sub product,0
+At Home Media,At Home  total,Short term,Retail Sales,Drinks,0
+At Home Media,At Home  total,Short term,Retail Sales,Food,0
+At Home Media,At Home  total,Short term,Retail Sales,Other,0
+At Home Media,At Home  total,Short term,RTD,Total RTD  sub product,0
+Express,Display,Long term,At Home  product,At Home  sub product,0.65
+Express,Display,Long term,Express Sales,Total Express  sub product,0.47
+Express,Display,Long term,Retail Sales,Drinks,0.36
+Express,Display,Long term,Retail Sales,Food,0.18
+Express,Display,Long term,Retail Sales,Other,0.04
+Express,Display,Long term,RTD,Total RTD  sub product,0.02
+Express,Display,Short term,At Home  product,At Home  sub product,0
+Express,Display,Short term,Express Sales,Total Express  sub product,4.31
+Express,Display,Short term,Retail Sales,Drinks,0
+Express,Display,Short term,Retail Sales,Food,0
+Express,Display,Short term,Retail Sales,Other,0
+Express,Display,Short term,RTD,Total RTD  sub product,0.12
+Express,OOH,Long term,At Home  product,At Home  sub product,0.96
+Express,OOH,Long term,Express Sales,Total Express  sub product,0.71
+Express,OOH,Long term,Retail Sales,Drinks,0.55
+Express,OOH,Long term,Retail Sales,Food,0.27
+Express,OOH,Long term,Retail Sales,Other,0.06
+Express,OOH,Long term,RTD,Total RTD  sub product,0.03
+Express,OOH,Short term,At Home  product,At Home  sub product,0
+Express,OOH,Short term,Express Sales,Total Express  sub product,3.03
+Express,OOH,Short term,Retail Sales,Drinks,0
+Express,OOH,Short term,Retail Sales,Food,0
+Express,OOH,Short term,Retail Sales,Other,0
+Express,OOH,Short term,RTD,Total RTD  sub product,0.14
+Express,Press,Long term,At Home  product,At Home  sub product,0.62
+Express,Press,Long term,Express Sales,Total Express  sub product,0.46
+Express,Press,Long term,Retail Sales,Drinks,0.35
+Express,Press,Long term,Retail Sales,Food,0.18
+Express,Press,Long term,Retail Sales,Other,0.04
+Express,Press,Long term,RTD,Total RTD  sub product,0.02
+Express,Press,Short term,At Home  product,At Home  sub product,0
+Express,Press,Short term,Express Sales,Total Express  sub product,3.32
+Express,Press,Short term,Retail Sales,Drinks,0
+Express,Press,Short term,Retail Sales,Food,0
+Express,Press,Short term,Retail Sales,Other,0
+Express,Press,Short term,RTD,Total RTD  sub product,0.12
+Express,Radio and Audio,Long term,At Home  product,At Home  sub product,1.88
+Express,Radio and Audio,Long term,Express Sales,Total Express  sub product,1.3
+Express,Radio and Audio,Long term,Retail Sales,Drinks,1.06
+Express,Radio and Audio,Long term,Retail Sales,Food,0.53
+Express,Radio and Audio,Long term,Retail Sales,Other,0.12
+Express,Radio and Audio,Long term,RTD,Total RTD  sub product,0.06
+Express,Radio and Audio,Short term,At Home  product,At Home  sub product,0
+Express,Radio and Audio,Short term,Express Sales,Total Express  sub product,9.46
+Express,Radio and Audio,Short term,Retail Sales,Drinks,0
+Express,Radio and Audio,Short term,Retail Sales,Food,0
+Express,Radio and Audio,Short term,Retail Sales,Other,0
+Express,Radio and Audio,Short term,RTD,Total RTD  sub product,0.12
+Express,Social,Long term,At Home  product,At Home  sub product,1.38
+Express,Social,Long term,Express Sales,Total Express  sub product,1.02
+Express,Social,Long term,Retail Sales,Drinks,0.79
+Express,Social,Long term,Retail Sales,Food,0.39
+Express,Social,Long term,Retail Sales,Other,0.09
+Express,Social,Long term,RTD,Total RTD  sub product,0.05
+Express,Social,Short term,At Home  product,At Home  sub product,0
+Express,Social,Short term,Express Sales,Total Express  sub product,8.83
+Express,Social,Short term,Retail Sales,Drinks,0
+Express,Social,Short term,Retail Sales,Food,0
+Express,Social,Short term,Retail Sales,Other,0
+Express,Social,Short term,RTD,Total RTD  sub product,0.12
+FOOU,FOOU  total,Long term,At Home  product,At Home  sub product,0.89
+FOOU,FOOU  total,Long term,Express Sales,Total Express  sub product,0.66
+FOOU,FOOU  total,Long term,Retail Sales,Drinks,0.53
+FOOU,FOOU  total,Long term,Retail Sales,Food,0.24
+FOOU,FOOU  total,Long term,Retail Sales,Other,0.04
+FOOU,FOOU  total,Long term,RTD,Total RTD  sub product,0.02
+FOOU,FOOU  total,Short term,At Home  product,At Home  sub product,1.33
+FOOU,FOOU  total,Short term,Express Sales,Total Express  sub product,0.75
+FOOU,FOOU  total,Short term,Retail Sales,Drinks,1.69
+FOOU,FOOU  total,Short term,Retail Sales,Food,2
+FOOU,FOOU  total,Short term,Retail Sales,Other,0.4
+FOOU,FOOU  total,Short term,RTD,Total RTD  sub product,0.22
+Retail,Display,Long term,At Home  product,At Home  sub product,0.84
+Retail,Display,Long term,Express Sales,Total Express  sub product,0.72
+Retail,Display,Long term,Retail Sales,Drinks,0.58
+Retail,Display,Long term,Retail Sales,Food,0.3
+Retail,Display,Long term,Retail Sales,Other,0.07
+Retail,Display,Long term,RTD,Total RTD  sub product,0.03
+Retail,Display,Short term,At Home  product,At Home  sub product,0.16
+Retail,Display,Short term,Express Sales,Total Express  sub product,0.34
+Retail,Display,Short term,Retail Sales,Drinks,1.81
+Retail,Display,Short term,Retail Sales,Food,1.01
+Retail,Display,Short term,Retail Sales,Other,0.06
+Retail,Display,Short term,RTD,Total RTD  sub product,0.02
+Retail,OOH,Long term,At Home  product,At Home  sub product,2.51
+Retail,OOH,Long term,Express Sales,Total Express  sub product,1.42
+Retail,OOH,Long term,Retail Sales,Drinks,1.48
+Retail,OOH,Long term,Retail Sales,Food,0.72
+Retail,OOH,Long term,Retail Sales,Other,0.17
+Retail,OOH,Long term,RTD,Total RTD  sub product,0.06
+Retail,OOH,Short term,At Home  product,At Home  sub product,0.18
+Retail,OOH,Short term,Express Sales,Total Express  sub product,0.33
+Retail,OOH,Short term,Retail Sales,Drinks,4.89
+Retail,OOH,Short term,Retail Sales,Food,0.36
+Retail,OOH,Short term,Retail Sales,Other,0.13
+Retail,OOH,Short term,RTD,Total RTD  sub product,0.02
+Retail,Press,Long term,At Home  product,At Home  sub product,1.73
+Retail,Press,Long term,Express Sales,Total Express  sub product,1.05
+Retail,Press,Long term,Retail Sales,Drinks,1.13
+Retail,Press,Long term,Retail Sales,Food,0.76
+Retail,Press,Long term,Retail Sales,Other,0.13
+Retail,Press,Long term,RTD,Total RTD  sub product,0.04
+Retail,Press,Short term,At Home  product,At Home  sub product,0.12
+Retail,Press,Short term,Express Sales,Total Express  sub product,0.4
+Retail,Press,Short term,Retail Sales,Drinks,2.31
+Retail,Press,Short term,Retail Sales,Food,1.24
+Retail,Press,Short term,Retail Sales,Other,0.38
+Retail,Press,Short term,RTD,Total RTD  sub product,0.02
+Retail,Radio and Audio,Long term,At Home  product,At Home  sub product,2.3
+Retail,Radio and Audio,Long term,Express Sales,Total Express  sub product,1.95
+Retail,Radio and Audio,Long term,Retail Sales,Drinks,1.5
+Retail,Radio and Audio,Long term,Retail Sales,Food,0.74
+Retail,Radio and Audio,Long term,Retail Sales,Other,0.18
+Retail,Radio and Audio,Long term,RTD,Total RTD  sub product,0.09
+Retail,Radio and Audio,Short term,At Home  product,At Home  sub product,0.17
+Retail,Radio and Audio,Short term,Express Sales,Total Express  sub product,0.32
+Retail,Radio and Audio,Short term,Retail Sales,Drinks,2.1
+Retail,Radio and Audio,Short term,Retail Sales,Food,0.92
+Retail,Radio and Audio,Short term,Retail Sales,Other,0.06
+Retail,Radio and Audio,Short term,RTD,Total RTD  sub product,0.02
+Retail,Social,Long term,At Home  product,At Home  sub product,1.94
+Retail,Social,Long term,Express Sales,Total Express  sub product,1.62
+Retail,Social,Long term,Retail Sales,Drinks,1.3
+Retail,Social,Long term,Retail Sales,Food,0.65
+Retail,Social,Long term,Retail Sales,Other,0.15
+Retail,Social,Long term,RTD,Total RTD  sub product,0.07
+Retail,Social,Short term,At Home  product,At Home  sub product,0.15
+Retail,Social,Short term,Express Sales,Total Express  sub product,0.36
+Retail,Social,Short term,Retail Sales,Drinks,1.71
+Retail,Social,Short term,Retail Sales,Food,1.01
+Retail,Social,Short term,Retail Sales,Other,0.06
+Retail,Social,Short term,RTD,Total RTD  sub product,0.02
+Retail,TV Sponsorship,Long term,At Home  product,At Home  sub product,20.05
+Retail,TV Sponsorship,Long term,Express Sales,Total Express  sub product,17.01
+Retail,TV Sponsorship,Long term,Retail Sales,Drinks,13.94
+Retail,TV Sponsorship,Long term,Retail Sales,Food,6.88
+Retail,TV Sponsorship,Long term,Retail Sales,Other,1.66
+Retail,TV Sponsorship,Long term,RTD,Total RTD  sub product,0.86
+Retail,TV Sponsorship,Short term,At Home  product,At Home  sub product,0.25
+Retail,TV Sponsorship,Short term,Express Sales,Total Express  sub product,0.34
+Retail,TV Sponsorship,Short term,Retail Sales,Drinks,2.59
+Retail,TV Sponsorship,Short term,Retail Sales,Food,1.89
+Retail,TV Sponsorship,Short term,Retail Sales,Other,0
+Retail,TV Sponsorship,Short term,RTD,Total RTD  sub product,0.02
+Retail,VOD,Long term,At Home  product,At Home  sub product,0.97
+Retail,VOD,Long term,Express Sales,Total Express  sub product,0.79
+Retail,VOD,Long term,Retail Sales,Drinks,0.64
+Retail,VOD,Long term,Retail Sales,Food,0.33
+Retail,VOD,Long term,Retail Sales,Other,0.08
+Retail,VOD,Long term,RTD,Total RTD  sub product,0.04
+Retail,VOD,Short term,At Home  product,At Home  sub product,0.07
+Retail,VOD,Short term,Express Sales,Total Express  sub product,0.34
+Retail,VOD,Short term,Retail Sales,Drinks,2.56
+Retail,VOD,Short term,Retail Sales,Food,2.12
+Retail,VOD,Short term,Retail Sales,Other,0.49
+Retail,VOD,Short term,RTD,Total RTD  sub product,0.02
+RTD Media,OOH,Long term,At Home  product,At Home  sub product,0.73
+RTD Media,OOH,Long term,Express Sales,Total Express  sub product,0.62
+RTD Media,OOH,Long term,Retail Sales,Drinks,0.43
+RTD Media,OOH,Long term,Retail Sales,Food,0.25
+RTD Media,OOH,Long term,Retail Sales,Other,0.07
+RTD Media,OOH,Long term,RTD,Total RTD  sub product,0.03
+RTD Media,OOH,Short term,At Home  product,At Home  sub product,0
+RTD Media,OOH,Short term,Express Sales,Total Express  sub product,0
+RTD Media,OOH,Short term,Retail Sales,Drinks,2.12
+RTD Media,OOH,Short term,Retail Sales,Food,0
+RTD Media,OOH,Short term,Retail Sales,Other,0.17
+RTD Media,OOH,Short term,RTD,Total RTD  sub product,1.35
+,,,,,
+App Downloads - CPA,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,Total App  product,Total App  sub product,2525.17
+At Home Media,At Home  total,Short term,Total App  product,Total App  sub product,0
+Express,Display,Long term,Total App  product,Total App  sub product,481.79
+Express,Display,Short term,Total App  product,Total App  sub product,0
+Express,OOH,Long term,Total App  product,Total App  sub product,326.89
+Express,OOH,Short term,Total App  product,Total App  sub product,0
+Express,Press,Long term,Total App  product,Total App  sub product,517.13
+Express,Press,Short term,Total App  product,Total App  sub product,0
+Express,Radio and Audio,Long term,Total App  product,Total App  sub product,267.72
+Express,Radio and Audio,Short term,Total App  product,Total App  sub product,0
+Express,Social,Long term,Total App  product,Total App  sub product,229.96
+Express,Social,Short term,Total App  product,Total App  sub product,0
+FOOU,FOOU  total,Long term,Total App  product,Total App  sub product,1789.98
+FOOU,FOOU  total,Short term,Total App  product,Total App  sub product,2.64
+Retail,Display,Long term,Total App  product,Total App  sub product,1363.9
+Retail,Display,Short term,Total App  product,Total App  sub product,115.43
+Retail,OOH,Long term,Total App  product,Total App  sub product,1070.7
+Retail,OOH,Short term,Total App  product,Total App  sub product,145.05
+Retail,Press,Long term,Total App  product,Total App  sub product,2101.38
+Retail,Press,Short term,Total App  product,Total App  sub product,138.91
+Retail,Radio and Audio,Long term,Total App  product,Total App  sub product,552.25
+Retail,Radio and Audio,Short term,Total App  product,Total App  sub product,119.15
+Retail,Social,Long term,Total App  product,Total App  sub product,623.07
+Retail,Social,Short term,Total App  product,Total App  sub product,107.84
+Retail,TV Sponsorship,Long term,Total App  product,Total App  sub product,75.75
+Retail,TV Sponsorship,Short term,Total App  product,Total App  sub product,146.66
+Retail,VOD,Long term,Total App  product,Total App  sub product,1815.57
+Retail,VOD,Short term,Total App  product,Total App  sub product,105.43
+RTD Media,OOH,Long term,Total App  product,Total App  sub product,1873.36
+RTD Media,OOH,Short term,Total App  product,Total App  sub product,0
+,,,,,
+At Home Volume - CPA,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,At Home  product,At Home  sub product,3.37
+At Home Media,At Home  total,Short term,At Home  product,At Home  sub product,0.52
+Express,Display,Long term,At Home  product,At Home  sub product,5.76
+Express,Display,Short term,At Home  product,At Home  sub product,0
+Express,OOH,Long term,At Home  product,At Home  sub product,3.9
+Express,OOH,Short term,At Home  product,At Home  sub product,0
+Express,Press,Long term,At Home  product,At Home  sub product,6.04
+Express,Press,Short term,At Home  product,At Home  sub product,0
+Express,Radio and Audio,Long term,At Home  product,At Home  sub product,1.97
+Express,Radio and Audio,Short term,At Home  product,At Home  sub product,0
+Express,Social,Long term,At Home  product,At Home  sub product,2.72
+Express,Social,Short term,At Home  product,At Home  sub product,0
+FOOU,FOOU  total,Long term,At Home  product,At Home  sub product,4.24
+FOOU,FOOU  total,Short term,At Home  product,At Home  sub product,2.91
+Retail,Display,Long term,At Home  product,At Home  sub product,4.5
+Retail,Display,Short term,At Home  product,At Home  sub product,23.06
+Retail,OOH,Long term,At Home  product,At Home  sub product,1.51
+Retail,OOH,Short term,At Home  product,At Home  sub product,21.53
+Retail,Press,Long term,At Home  product,At Home  sub product,2.2
+Retail,Press,Short term,At Home  product,At Home  sub product,31.37
+Retail,Radio and Audio,Long term,At Home  product,At Home  sub product,1.65
+Retail,Radio and Audio,Short term,At Home  product,At Home  sub product,21.8
+Retail,Social,Long term,At Home  product,At Home  sub product,1.96
+Retail,Social,Short term,At Home  product,At Home  sub product,24.4
+Retail,TV Sponsorship,Long term,At Home  product,At Home  sub product,0.19
+Retail,TV Sponsorship,Short term,At Home  product,At Home  sub product,15.14
+Retail,VOD,Long term,At Home  product,At Home  sub product,3.9
+Retail,VOD,Short term,At Home  product,At Home  sub product,53.01
+RTD Media,OOH,Long term,At Home  product,At Home  sub product,5.18
+RTD Media,OOH,Short term,At Home  product,At Home  sub product,0
+,,,,,
+Express Sales Volume - CPA,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,Express Sales,Total Express  sub product,2.63
+At Home Media,At Home  total,Short term,Express Sales,Total Express  sub product,0
+Express,Display,Long term,Express Sales,Total Express  sub product,4.44
+Express,Display,Short term,Express Sales,Total Express  sub product,0.49
+Express,OOH,Long term,Express Sales,Total Express  sub product,2.95
+Express,OOH,Short term,Express Sales,Total Express  sub product,0.69
+Express,Press,Long term,Express Sales,Total Express  sub product,4.56
+Express,Press,Short term,Express Sales,Total Express  sub product,0.63
+Express,Radio and Audio,Long term,Express Sales,Total Express  sub product,1.61
+Express,Radio and Audio,Short term,Express Sales,Total Express  sub product,0.22
+Express,Social,Long term,Express Sales,Total Express  sub product,2.05
+Express,Social,Short term,Express Sales,Total Express  sub product,0.24
+FOOU,FOOU  total,Long term,Express Sales,Total Express  sub product,3.19
+FOOU,FOOU  total,Short term,Express Sales,Total Express  sub product,2.82
+Retail,Display,Long term,Express Sales,Total Express  sub product,2.88
+Retail,Display,Short term,Express Sales,Total Express  sub product,6.12
+Retail,OOH,Long term,Express Sales,Total Express  sub product,1.47
+Retail,OOH,Short term,Express Sales,Total Express  sub product,6.31
+Retail,Press,Long term,Express Sales,Total Express  sub product,1.99
+Retail,Press,Short term,Express Sales,Total Express  sub product,5.23
+Retail,Radio and Audio,Long term,Express Sales,Total Express  sub product,1.07
+Retail,Radio and Audio,Short term,Express Sales,Total Express  sub product,6.49
+Retail,Social,Long term,Express Sales,Total Express  sub product,1.29
+Retail,Social,Short term,Express Sales,Total Express  sub product,5.86
+Retail,TV Sponsorship,Long term,Express Sales,Total Express  sub product,0.12
+Retail,TV Sponsorship,Short term,Express Sales,Total Express  sub product,6.1
+Retail,VOD,Long term,Express Sales,Total Express  sub product,2.62
+Retail,VOD,Short term,Express Sales,Total Express  sub product,6.24
+RTD Media,OOH,Long term,Express Sales,Total Express  sub product,3.36
+RTD Media,OOH,Short term,Express Sales,Total Express  sub product,0
+,,,,,
+Retail Drinks Volume - CPA,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,Retail Sales,Drinks,3.38
+At Home Media,At Home  total,Short term,Retail Sales,Drinks,0
+Express,Display,Long term,Retail Sales,Drinks,6.17
+Express,Display,Short term,Retail Sales,Drinks,0
+Express,OOH,Long term,Retail Sales,Drinks,4.11
+Express,OOH,Short term,Retail Sales,Drinks,0
+Express,Press,Long term,Retail Sales,Drinks,6.34
+Express,Press,Short term,Retail Sales,Drinks,0
+Express,Radio and Audio,Long term,Retail Sales,Drinks,2.12
+Express,Radio and Audio,Short term,Retail Sales,Drinks,0
+Express,Social,Long term,Retail Sales,Drinks,2.85
+Express,Social,Short term,Retail Sales,Drinks,0
+FOOU,FOOU  total,Long term,Retail Sales,Drinks,4.24
+FOOU,FOOU  total,Short term,Retail Sales,Drinks,1.34
+Retail,Display,Long term,Retail Sales,Drinks,3.89
+Retail,Display,Short term,Retail Sales,Drinks,1.25
+Retail,OOH,Long term,Retail Sales,Drinks,1.52
+Retail,OOH,Short term,Retail Sales,Drinks,0.46
+Retail,Press,Long term,Retail Sales,Drinks,1.99
+Retail,Press,Short term,Retail Sales,Drinks,0.97
+Retail,Radio and Audio,Long term,Retail Sales,Drinks,1.5
+Retail,Radio and Audio,Short term,Retail Sales,Drinks,1.07
+Retail,Social,Long term,Retail Sales,Drinks,1.73
+Retail,Social,Short term,Retail Sales,Drinks,1.32
+Retail,TV Sponsorship,Long term,Retail Sales,Drinks,0.16
+Retail,TV Sponsorship,Short term,Retail Sales,Drinks,0.87
+Retail,VOD,Long term,Retail Sales,Drinks,3.52
+Retail,VOD,Short term,Retail Sales,Drinks,0.89
+RTD Media,OOH,Long term,Retail Sales,Drinks,5.24
+RTD Media,OOH,Short term,Retail Sales,Drinks,1.07
+,,,,,
+Retail Food Volume - CPA,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,Retail Sales,Food,5.78
+At Home Media,At Home  total,Short term,Retail Sales,Food,0
+Express,Display,Long term,Retail Sales,Food,10.36
+Express,Display,Short term,Retail Sales,Food,0
+Express,OOH,Long term,Retail Sales,Food,6.96
+Express,OOH,Short term,Retail Sales,Food,0
+Express,Press,Long term,Retail Sales,Food,10.71
+Express,Press,Short term,Retail Sales,Food,0
+Express,Radio and Audio,Long term,Retail Sales,Food,3.56
+Express,Radio and Audio,Short term,Retail Sales,Food,0
+Express,Social,Long term,Retail Sales,Food,4.79
+Express,Social,Short term,Retail Sales,Food,0
+FOOU,FOOU  total,Long term,Retail Sales,Food,7.68
+FOOU,FOOU  total,Short term,Retail Sales,Food,0.93
+Retail,Display,Long term,Retail Sales,Food,6.27
+Retail,Display,Short term,Retail Sales,Food,1.86
+Retail,OOH,Long term,Retail Sales,Food,2.62
+Retail,OOH,Short term,Retail Sales,Food,5.24
+Retail,Press,Long term,Retail Sales,Food,2.47
+Retail,Press,Short term,Retail Sales,Food,1.51
+Retail,Radio and Audio,Long term,Retail Sales,Food,2.54
+Retail,Radio and Audio,Short term,Retail Sales,Food,2.05
+Retail,Social,Long term,Retail Sales,Food,2.9
+Retail,Social,Short term,Retail Sales,Food,1.87
+Retail,TV Sponsorship,Long term,Retail Sales,Food,0.27
+Retail,TV Sponsorship,Short term,Retail Sales,Food,0.99
+Retail,VOD,Long term,Retail Sales,Food,5.65
+Retail,VOD,Short term,Retail Sales,Food,0.9
+RTD Media,OOH,Long term,Retail Sales,Food,7.51
+RTD Media,OOH,Short term,Retail Sales,Food,0
+,,,,,
+Retail Other Volume - CPA,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,Retail Sales,Other,20.83
+At Home Media,At Home  total,Short term,Retail Sales,Other,0
+Express,Display,Long term,Retail Sales,Other,39.87
+Express,Display,Short term,Retail Sales,Other,0
+Express,OOH,Long term,Retail Sales,Other,26.04
+Express,OOH,Short term,Retail Sales,Other,0
+Express,Press,Long term,Retail Sales,Other,40.28
+Express,Press,Short term,Retail Sales,Other,0
+Express,Radio and Audio,Long term,Retail Sales,Other,13.8
+Express,Radio and Audio,Short term,Retail Sales,Other,0
+Express,Social,Long term,Retail Sales,Other,17.71
+Express,Social,Short term,Retail Sales,Other,0
+FOOU,FOOU  total,Long term,Retail Sales,Other,38
+FOOU,FOOU  total,Short term,Retail Sales,Other,3.9
+Retail,Display,Long term,Retail Sales,Other,22.98
+Retail,Display,Short term,Retail Sales,Other,26.72
+Retail,OOH,Long term,Retail Sales,Other,9.34
+Retail,OOH,Short term,Retail Sales,Other,12.79
+Retail,Press,Long term,Retail Sales,Other,12.75
+Retail,Press,Short term,Retail Sales,Other,4.21
+Retail,Radio and Audio,Long term,Retail Sales,Other,8.96
+Retail,Radio and Audio,Short term,Retail Sales,Other,27.89
+Retail,Social,Long term,Retail Sales,Other,11.12
+Retail,Social,Short term,Retail Sales,Other,26.45
+Retail,TV Sponsorship,Long term,Retail Sales,Other,0.96
+Retail,TV Sponsorship,Short term,Retail Sales,Other,0
+Retail,VOD,Long term,Retail Sales,Other,19.75
+Retail,VOD,Short term,Retail Sales,Other,3.5
+RTD Media,OOH,Long term,Retail Sales,Other,24.76
+RTD Media,OOH,Short term,Retail Sales,Other,9.96
+,,,,,
+RTD Cases - CPA,,,,,
+Campaign,Media channel,KPI group,Product,Sub product,2022
+At Home Media,At Home  total,Long term,RTD,Total RTD  sub product,825.54
+At Home Media,At Home  total,Short term,RTD,Total RTD  sub product,0
+Express,Display,Long term,RTD,Total RTD  sub product,1539.32
+Express,Display,Short term,RTD,Total RTD  sub product,275.06
+Express,OOH,Long term,RTD,Total RTD  sub product,910.96
+Express,OOH,Short term,RTD,Total RTD  sub product,219.74
+Express,Press,Long term,RTD,Total RTD  sub product,1411.38
+Express,Press,Short term,RTD,Total RTD  sub product,258.49
+Express,Radio and Audio,Long term,RTD,Total RTD  sub product,556.95
+Express,Radio and Audio,Short term,RTD,Total RTD  sub product,270.93
+Express,Social,Long term,RTD,Total RTD  sub product,673.69
+Express,Social,Short term,RTD,Total RTD  sub product,279.49
+FOOU,FOOU  total,Long term,RTD,Total RTD  sub product,1408.18
+FOOU,FOOU  total,Short term,RTD,Total RTD  sub product,141.76
+Retail,Display,Long term,RTD,Total RTD  sub product,916.51
+Retail,Display,Short term,RTD,Total RTD  sub product,1593.15
+Retail,OOH,Long term,RTD,Total RTD  sub product,517.11
+Retail,OOH,Short term,RTD,Total RTD  sub product,1700.59
+Retail,Press,Long term,RTD,Total RTD  sub product,753.88
+Retail,Press,Short term,RTD,Total RTD  sub product,1797.42
+Retail,Radio and Audio,Long term,RTD,Total RTD  sub product,340.86
+Retail,Radio and Audio,Short term,RTD,Total RTD  sub product,1627.22
+Retail,Social,Long term,RTD,Total RTD  sub product,436.53
+Retail,Social,Short term,RTD,Total RTD  sub product,1533.03
+Retail,TV Sponsorship,Long term,RTD,Total RTD  sub product,36.69
+Retail,TV Sponsorship,Short term,RTD,Total RTD  sub product,1707.76
+Retail,VOD,Long term,RTD,Total RTD  sub product,900.06
+Retail,VOD,Short term,RTD,Total RTD  sub product,1482.73
+RTD Media,OOH,Long term,RTD,Total RTD  sub product,999.86
+RTD Media,OOH,Short term,RTD,Total RTD  sub product,22.98
